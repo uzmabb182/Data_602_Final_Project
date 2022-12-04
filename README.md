@@ -1,7 +1,7 @@
 # Data_602_Final_Project By Mubashira Qari
 # Impact of Covid-19 on Student Learning Modalities in US for the Year 2021-2022
 
-![alt text](Picture1.jpg)
+![alt text](images/Picture1.jpg)
 
 ### The US state level datasets are acquired from the following sources:
 
