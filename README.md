@@ -15,7 +15,7 @@
 
 [HealthData.gov](https://healthdata.gov/National/School-Learning-Modalities/aitj-yx37)
 
-[NYTimes Covid-19 data – GitHub](hhttps://github.com/nytimes/covid-19-data)
+[NYTimes Covid-19 data – GitHub](https://github.com/nytimes/covid-19-data)
 
 [States Names and Abbreviations – GitHub](https://github.com/jasonong/List-of-US-States/blob/master/states.csv)
 
