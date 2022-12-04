@@ -53,9 +53,9 @@
 - Data Exported for Tableau App.
 - Data Exported for Plotly Dash App.
 
-![alt text](images\Picture2.png)
+![alt text](images/Picture2.png)
 
-![alt text](images\Picture3.png)
+![alt text](images/Picture3.png)
 
 # Conclusion:
 
@@ -69,7 +69,7 @@
 
 # PostgreSQL Relational Database Schema
 
-![alt text](images\Picture4.png)
+![alt text](images/Picture4.png)
 
 
 # Tableau Visualizations
@@ -77,14 +77,14 @@
 [Tableau dashboard Link](https://public.tableau.com/app/profile/mubashira.qari/viz/ImpactofCovidonLearningModalities-Year2021-2022/ImpactofCovidonLearningModalities-2021-2022?publish=yes)
 
 
-![alt text](images\Picture5.png)
+![alt text](images/Picture5.png)
 
-![alt text](images\Picture6.png)
+![alt text](images/Picture6.png)
 
-![alt text](images\Picture7.png)
+![alt text](images/Picture7.png)
 
 # Plotly Dash App:
 
-![alt text](images\Picture8.png)
+![alt text](images/Picture8.png)
 
-![alt text](images\Picture9.png)
+![alt text](images/Picture9.png)
